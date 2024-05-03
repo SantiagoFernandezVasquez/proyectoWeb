@@ -1,0 +1,166 @@
+@import url(variables.css);
+*{
+
+}
+.body {
+    background-color: #1e1d2b;
+}
+.container {
+    border: 4px solid #ff702a;
+    width: 1580px;
+}
+.container2 {
+    border: 4px solid #ff702a;
+    width: 1580px;
+}
+.header {
+    width: px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+}
+.header__text {
+    color: #ff702a;
+    font-size: 30px;
+    margin-top: -17px;
+    margin-left: 60px;
+    font-family: "Poppins", sans-serif;
+}
+.header__options {
+    margin-left: 990px;
+    gap: 7px;
+    display: flex;
+    flex-direction: row;
+    font-family: "Poppins", sans-serif;
+}
+.contenedor {
+    width: 60px;
+    height: 30px;
+    margin-top: 13px;
+    border: 2px solid aquamarine;
+    text-align: center;
+}
+.contenedor2 {
+    width: 60px;
+    height: 30px;
+    margin-top: 13px;
+    margin-left: 20px;
+    text-align: center;
+}
+.contenedor3 {
+    width: 60px;
+    height: 30px;
+    margin-top: 13px;
+    margin-left: 20px;
+    text-align: center;
+}
+.contenedor4 {
+    width: 60px;
+    height: 30px;
+    margin-top: 13px;
+    margin-left: 20px;
+    text-align: center;
+}
+.contenedor5 {
+    width: 60px;
+    height: 30px;
+    margin-top: 13px;
+    margin-left: 20px;
+    text-align: center;
+}
+.contenedor p {
+    color: white;
+    margin-top: 6px;
+}
+.contenedor2 p {
+    color: white;
+    margin-top: 6px;
+}
+.contenedor3 p {
+    color: white;
+    margin-top: 6px;
+}
+.contenedor4 p {
+    color: white;
+    margin-top: 6px;
+}
+.contenedor5 p {
+    color: white;
+    margin-top: 6px;
+}
+.menu {
+    display: flex;
+    flex-direction: row;
+}
+.menu img {
+    width: 450px;
+    height: 450px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.information {
+    color: #ff702a;
+    font-size:90px;
+    margin-left: 150px;
+    margin-top: 100px;
+    font-family: "Poppins", sans-serif;
+}
+.texto {
+    color: white;
+    font-size: 30px;
+    margin-top: 15px;
+    margin-left: 150px;
+    font-family: "Poppins", sans-serif;
+}
+.small_container {
+    width: 170px;
+    height: 40px;
+    background-color: #ff702a;
+    color: white;
+    margin-top: 30px;
+    margin-left: 150px;
+    text-align: center;
+    margin-bottom: 150px;
+    padding-bottom: 12px;
+}
+.small_container p4 {
+    font-size: 17px;
+    font-family: "Poppins", sans-serif;
+}
+.content {
+    display: flex;
+    flex-direction: row;
+}
+.content img {
+    width: 450px;
+    height: 450px;
+    margin-top: 120px;
+    margin-left: 260px;
+}
+.information2 {
+    color: #ff702a;
+    font-size: 23px;
+    margin-top: 120px;
+    margin-left: 20px;
+    font-family: "Poppins", sans-serif;
+}
+.texto2 p {
+    font-size: 70px;
+    margin-left: 20px;
+    margin-top: -30px;
+    font-family: "Poppins", sans-serif;
+}
+.small-text {
+    font-size: 23px;
+    margin-top: -40px;
+    margin-left: 20px;
+}
+.small_container2 {
+    width: 170px;
+    height: 40px;
+    background-color: #ff702a;
+    margin-left: 20px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-size: 17px;
+}
